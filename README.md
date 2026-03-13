@@ -2,6 +2,8 @@
 
 A simple full-stack project with a React frontend and TypeScript backend.
 
+This repo has been forked from the original.
+
 ## Project Structure
 
 ```
